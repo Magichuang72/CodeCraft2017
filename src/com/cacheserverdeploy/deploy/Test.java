@@ -12,7 +12,7 @@ public class Test {
         m.add(4);
         m.add(5);
         m.add(11);
-
+        m.add(2);
         System.out.println(m);
     }
 }
